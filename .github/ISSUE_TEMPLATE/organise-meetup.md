@@ -1,3 +1,12 @@
+---
+name: Organise a meetup
+about: To-do list for organising a meet-up
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Set up
 
 - [ ] Decide date and time, preferably at least two weeks in advance
@@ -24,4 +33,3 @@
 ## After meetup
 
 - [ ] back up etherpad notes by copying into a new .md file in <https://github.com/r-lgbtq/meeting-notes> (this is a private repo)
-  
