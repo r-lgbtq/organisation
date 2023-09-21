@@ -12,6 +12,7 @@
 - [ ] RainbowR on Mastodon: <https://tech.lgbt/@rainbowR>
 - [ ] RainbowR Slack: <https://rainbowr.slack.com>
 - [ ] Forwards Slack: <https://rforwards.slack.com>
+- [ ] Email list
 - [ ] Boost or send our reminder the day before
 
 ## Prepare for meetup

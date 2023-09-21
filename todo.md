@@ -20,3 +20,7 @@
 
 - Organise a mini-conference
 - Do something to revitalise the Slack, perhaps a discusion group?
+- Do more with Mastodon - make sure people turn on notifications for the account
+- Newsletter
+  - email notices about meetups
+- Promote the work of RainbowR members
