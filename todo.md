@@ -13,5 +13,10 @@
 - Can we have a meetup page? If so, under what organisation?
 - Partnerships with other communities - Rladies, MIR
 - Think about forming a committee
+    - what roles?
+    - how to recruit?
 - Add an organisation repo and create an issue template for organising/promoting meet-ups (see [https://github.com/WarwickRUG/organization](https://github.com/WarwickRUG/organization))
 - Update visual identity?
+
+- Organise a mini-conference
+- Do something to revitalise the Slack, perhaps a discusion group?
