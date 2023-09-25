@@ -1,5 +1,11 @@
 # A to-do/wishlist for RainbowR
 
+- Write pinned post for Mastodon
+
+- Edit sign-up sheet: 
+	- remove Twitter, add Fediverse
+	- substitute 'birth sex' with 'gender assigned at birth'
+
 - Organise a speaker series. 
   - Ella has list (not for public repo) of possible speakers
 
