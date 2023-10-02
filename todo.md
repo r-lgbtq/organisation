@@ -7,7 +7,7 @@
 	- [ ] substitute 'birth sex' with 'gender assigned at birth'
 
 - [ ] Organise a speaker series. 
-  - [ ] Ella has list (not for public repo) of possible speakers
+  - Ella has list (not for public repo) of possible speakers
 
 - [ ] Website updates:
 	- [ ] Add events page
@@ -22,7 +22,7 @@
 - [ ] Think about forming a committee
     - what roles?
     - how to recruit?
-- [ ] Add an organisation repo and create an issue template for organising/promoting meet-ups (see [https://github.com/WarwickRUG/organization](https://github.com/WarwickRUG/organization))
+- [x] Add an organisation repo and create an issue template for organising/promoting meet-ups (see [https://github.com/WarwickRUG/organization](https://github.com/WarwickRUG/organization))
 - [ ] Update visual identity?
 
 - [ ] Organise a mini-conference
