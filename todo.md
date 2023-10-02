@@ -14,6 +14,7 @@
 	- [ ] Add contact details, add tech.lgbt, remove twitter
 	- [ ] Template for blog posts
 
+- [ ] GitHub home page, including CoC
 - [ ] Elicit posts for blog (once there's a template and workflow for that)
 - [ ] Relaunch TidyRainbow
 - [ ] Can we have a meetup page? If so, under what organisation?
