@@ -13,6 +13,7 @@
 	- [ ] Add events page
 	- [ ] Add contact details, add tech.lgbt, remove twitter
 	- [ ] Template for blog posts
+	- [ ] Light and dark modes
 
 - [ ] GitHub home page, including CoC
 - [ ] Elicit posts for blog (once there's a template and workflow for that)
