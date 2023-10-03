@@ -2,9 +2,9 @@
 
 - [ ] Write pinned post for Mastodon
 
-- [ ] Edit sign-up sheet: 
-	- [ ] remove Twitter, add Fediverse
-	- [ ] substitute 'birth sex' with 'gender assigned at birth'
+- [x] Edit sign-up sheet: 
+	- [x] remove Twitter, add Fediverse
+	- [x] substitute 'birth sex' with 'gender assigned at birth'
 
 - [ ] Organise a speaker series. 
   - Ella has list (not for public repo) of possible speakers
@@ -33,3 +33,4 @@
   - [ ] email notices about meetups
 - [ ] Promote the work of RainbowR members
 - [ ] Support sessions
+- [ ] Reading group (if suitable book found)
