@@ -34,3 +34,4 @@
 - [ ] Promote the work of RainbowR members
 - [ ] Support sessions
 - [ ] Reading group (if suitable book found)
+- [ ] Move this to-do list to a series of GitHub issues
