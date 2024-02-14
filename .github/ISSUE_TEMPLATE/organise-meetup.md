@@ -14,7 +14,7 @@ assignees: ''
 - [ ] Create event on Zoom, using Forwards account: <https://zoom.us>
     - Make sure that registration is required
 - [ ] Create image to share
-- [ ] ~~Add to RainbowR website (once events page is created!)~~
+- [ ] Add to RainbowR website (once events page is created!)
 
 ## Promote
 
