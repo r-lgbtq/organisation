@@ -14,7 +14,7 @@ assignees: ''
 - [ ] Create event on Zoom, using Forwards account: <https://zoom.us>
     - Make sure that registration is required
 - [ ] Create image to share
-- [ ] Add to RainbowR website (once events page is created!)
+- [ ] Add to RainbowR website 
 
 ## Promote
 
@@ -28,7 +28,7 @@ assignees: ''
 
 - [ ] Create an etherpad with outline and for writing/sharing any notes during the meeting
   - simply create with a new URL in format <https://developer.r-project.org/etherpad/p/YYYY-MM-DD-rainbowR> (just update date!)
-  - see e.g. <https://developer.r-project.org/etherpad/p/2022-11-01-rainbowR>
+  - see e.g. <https://developer.r-project.org/etherpad/p/2024-02-22-rainbowR>
   
 ## After meetup
 
