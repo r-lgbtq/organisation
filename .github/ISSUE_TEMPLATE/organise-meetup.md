@@ -14,12 +14,12 @@ assignees: ''
 - [ ] Create event on Zoom, using Forwards account: <https://zoom.us>
     - Make sure that registration is required
 - [ ] Create image to share
-- [ ] Add to RainbowR website 
+- [ ] Add to rainbowR website 
 
 ## Promote
 
-- [ ] RainbowR on Mastodon: <https://tech.lgbt/@rainbowR>
-- [ ] RainbowR Slack: <https://rainbowr.slack.com>
+- [ ] rainbowR on Mastodon: <https://tech.lgbt/@rainbowR>
+- [ ] rainbowR Slack: <https://rainbowr.slack.com>
 - [ ] Forwards Slack: <https://rforwards.slack.com>
 - [ ] Email list
 - [ ] Boost or send our reminder the day before
