@@ -33,3 +33,4 @@ assignees: ''
 ## After meetup
 
 - [ ] back up etherpad notes by copying into a new .md file in <https://github.com/r-lgbtq/meeting-notes> (this is a private repo)
+- [ ] update meetup page on website to list this meetup as previous and put in holding note for next meetup (until date is set)
