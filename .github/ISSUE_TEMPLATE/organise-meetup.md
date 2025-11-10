@@ -20,7 +20,7 @@ assignees: ''
 
 - [ ] rainbowR on Mastodon: <https://tech.lgbt/@rainbowR>
 - [ ] rainbowR on bluesky: <https://bsky.app/profile/rainbowr.bsky.social>
-- [ ] rainbowR on LinkedIn: <https://www.linkedin.com/groups/13115940/>
+- [ ] rainbowR on LinkedIn: <https://www.linkedin.com/company/rainbowr>
 - [ ] rainbowR Slack: <https://rainbowr.slack.com>
 - [ ] Forwards Slack: <https://rforwards.slack.com>
 - [ ] Email list
