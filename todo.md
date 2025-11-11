@@ -1,4 +1,4 @@
-# A to-do/wishlist for RainbowR
+# A to-do/wishlist for rainbowR
 
 - [ ] Write pinned post for Mastodon
 
