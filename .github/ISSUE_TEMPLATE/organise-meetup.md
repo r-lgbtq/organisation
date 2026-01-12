@@ -30,9 +30,10 @@ assignees: ''
 
 - [ ] Create an etherpad with outline and for writing/sharing any notes during the meeting
   - simply create with a new URL in format <https://developer.r-project.org/etherpad/p/YYYY-MM-DD-rainbowR> (just update date!)
-  - see e.g. <https://developer.r-project.org/etherpad/p/2024-02-22-rainbowR>
+  - see e.g. <https://developer.r-project.org/etherpad/p/2025-12-17-rainbowR>
   
 ## After meetup
 
 - [ ] back up etherpad notes by copying into a new .md file in <https://github.com/r-lgbtq/meeting-notes> (this is a private repo)
 - [ ] update meetup page on website to list this meetup as previous and put in holding note for next meetup (until date is set)
+- [ ] post summary in #meetup channel in Slack
